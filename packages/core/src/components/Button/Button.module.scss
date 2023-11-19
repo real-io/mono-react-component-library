@@ -1,0 +1,10 @@
+@use './../../styles/main.scss';
+
+.button {
+  padding: 1rem;
+  border: 1px solid red;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
